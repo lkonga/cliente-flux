@@ -1,0 +1,4 @@
+.aider*
+tmp/
+output/
+prompts.db
